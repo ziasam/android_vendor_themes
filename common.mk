@@ -16,8 +16,8 @@ include vendor/themes/iconshapes.mk
 # Navbar
 include vendor/themes/navbar.mk
 
-# Themes
-include vendor/themes/themes.mk
-
 # Misc
 include vendor/themes/misc.mk
+
+# Themes
+include vendor/themes/themes.mk
