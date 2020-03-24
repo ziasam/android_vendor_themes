@@ -9,4 +9,5 @@ PRODUCT_PACKAGES += \
     NavbarAsusOverlay \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
-    NavbarTecnoCamonOverlay
+    NavbarTecnoCamonOverlay \
+    NavbarPDOverlay
