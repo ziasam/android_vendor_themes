@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
     FontCoolstorySourceOverlay \
     FontFiraSansSourceOverlay \
     FontGoogleSansSourceOverlay \
+    FontGoogleSansMediumSourceOverlay \
     FontLGSmartGothicSourceOverlay \
     FontLinotteSourceOverlay \
     FontOneplusSlateSource \
