@@ -1,0 +1,5 @@
+# GVM
+PRODUCT_PACKAGES += \
+    GVM-URM-M \
+    GVM-URM-L \
+    GVM-URM-R
