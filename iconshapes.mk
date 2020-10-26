@@ -8,4 +8,5 @@ PRODUCT_PACKAGES += \
     IconShapeHexagonOverlay \
     IconShapePebbleOverlay \
     IconShapeTaperedRectOverlay \
-    IconShapeVesselOverlay
+    IconShapeVesselOverlay \
+    IconShapeHeartOverlay
