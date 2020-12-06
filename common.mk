@@ -9,3 +9,7 @@ include vendor/themes/navbar.mk
 
 # QS Tile styles
 include vendor/themes/qsstyles.mk
+
+include vendor/themes/panelbg.mk
+
+
