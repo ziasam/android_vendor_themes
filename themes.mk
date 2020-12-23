@@ -5,4 +5,6 @@ PRODUCT_PACKAGES += \
     SolarizedDarkSystemOverlay \
     SolarizedDarkSystemUIOverlay \
     ChocoXSystemOverlay \
-    ChocoXSystemUIOverlay
+    ChocoXSystemUIOverlay \
+    DarkGreySystemOverlay \
+    DarkGreySystemUIOverlay
