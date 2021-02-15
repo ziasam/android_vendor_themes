@@ -13,3 +13,5 @@ include vendor/themes/qsstyles.mk
 include vendor/themes/panelbg.mk
 
 include vendor/themes/gvisual.mk
+
+include vendor/themes/BrightnessSlider.mk
